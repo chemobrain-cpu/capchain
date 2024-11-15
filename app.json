@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Capchain",
+    "slug": "Capchain",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1652f0"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1652f0"
+      },
+      "package": "com.capchain.capchain"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bd50b93e-c807-4102-aaa2-2e85fe32c96c"
+      }
+    }
+  }
+}
